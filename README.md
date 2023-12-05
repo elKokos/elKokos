@@ -5,7 +5,7 @@
 
 
 
-<h2> 👨‍💻 About Me </h2>
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 Data analyst who sees the beauty in data ✨
 
@@ -31,7 +31,7 @@ I believe that data is not just a bunch of numbers and strings 📝. There is be
 
 I believe that data analysts play an important role in the modern world 🌎. We help people make more informed decisions based on data 📊. We also help create new products and services that improve people's lives ✨
 
-<h2> 🛠️ Languages and Tools </h2>
+<h2 align="center"> 🛠️ Languages and Tools </h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ I believe that data analysts play an important role in the modern world 🌎. We
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/><br/><br/>
 </div>
 
-<h2> 📊 Stats </h2>
+<h2 align="center"> 📊 Stats </h2>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elKokos&theme=vue"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elKokos&theme=vue"/>
