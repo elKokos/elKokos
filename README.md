@@ -54,6 +54,8 @@ I believe that data analysts play an important role in the modern world 🌎. We
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elKokos&theme=vue"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elKokos&theme=vue"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elKokos&theme=vue"/>
+<h3>LeetCode</h3>
+<img src="https://leetcode-stats-six.vercel.app/api?username=elKokosik&theme=vue"/>
 </div>
 
 
