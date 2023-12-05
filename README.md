@@ -14,7 +14,6 @@ I am a data analyst who specializes in finding patterns and connections in large
 Key skills:
 <ul>
 <li>Python 🐍</li>
-<li>R 📊</li>
 <li>SQL 💾</li>
 <li>Machine learning 🤖</li>
 <li>Data visualization 📊</li>
